@@ -11,4 +11,6 @@ Login into the application with these details.
 email => engallanmusembya@gmail.com
 password => admin
 
+The achitecture diagram for The ERP system intergrated with the Sales Report application can be found here https://github.com/kluz116/sales_report/blob/master/Sales%20Application%20Achitecture.png
+
 Please note that after importing the database, try and change the database configuration files
